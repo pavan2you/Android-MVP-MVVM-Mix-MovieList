@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">Movie List</string>
+    <string name="iv_content">image</string>
+
+    <string name="movie_info_no_title">Unknown Title</string>
+    <string name="movie_list_not_available">Movie list is empty, check later</string>
+    <string name="movie_list_is_loading">Please wait, movie list is loading</string>
+    <string name="movie_list_retry">Retry</string>
+
+    <string name="movie_info">Movie Info</string>
+    <string name="movie_info_title">Title</string>
+    <string name="movie_info_year">Year</string>
+    <string name="movie_info_rated">Rated</string>
+    <string name="movie_info_released">Released</string>
+    <string name="movie_info_runtime">Runtime</string>
+    <string name="movie_info_genre">Genre</string>
+    <string name="movie_info_director">Director</string>
+    <string name="movie_info_writer">Writer</string>
+    <string name="movie_info_actors">Actors</string>
+    <string name="movie_info_plot">Plot</string>
+    <string name="movie_info_language">Language</string>
+    <string name="movie_info_country">Country</string>
+    <string name="movie_info_awards">Awards</string>
+
+    <string name="general_no_network_error">Facing connectivity issues,
+        Please check internet connectivity and retry</string>
+
+    <string name="general_unrecoverable_error">An unrecoverable error terminated movies
+        fetch</string>
+
+    <string name="general_any_failure">Oops.. something went wrong</string>
+
+</resources>
